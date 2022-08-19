@@ -18,7 +18,7 @@ var twoSum = function (nums, target) {
 ```
 
 배열에서 2개의합이 목표와 같아지는 경우찾기 (경우수1개)
-```jacascript
+```javascript
 function solution(money, cost){
   let result = [];
 
